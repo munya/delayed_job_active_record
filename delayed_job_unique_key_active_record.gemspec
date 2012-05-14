@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name              = 'delayed_job_unique_key_active_record'
-  s.version           = '0.0.4'
+  s.version           = '0.0.5'
   s.authors           = ["Matt Griffin", "Oleg Muntyan"]
   s.summary           = 'ActiveRecord backend for DelayedJobUniqueKey'
   s.description       = 'ActiveRecord backend for DelayedJobUniqueKey, originally authored by Tobias Luetke'
